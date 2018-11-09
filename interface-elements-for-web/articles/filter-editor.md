@@ -8,7 +8,7 @@ The **Filter Editor** is used to edit filter criteria. To create and customize f
 
 ![ASPxFilterControl](../images/img8917.png)
 
-To edit filter criteria in text view, switch to the **Text** tab.
+To edit filter criteria in text view, switch to the **Text** tab.   
 
 ![FilterControl_TextTab](../images/img11359.png)
 
